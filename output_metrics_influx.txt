@@ -1,0 +1,4 @@
+cpu_load_short,env=test,host=server01,input_type=http_listener_v2,region=us-west value=0.64 1740500591714601176
+cpu_load_short,env=test,host=server01,input_type=http_listener_v2,region=us-west value=0.64 1740500593045866063
+cpu_load_short,env=test,host=server01,input_type=http_listener_v2,region=us-west value=0.64 1740500594618790328
+cpu_load_short,env=test,host=server01,input_type=http_listener_v2,region=us-west value=0.64 1740500642078419761
