@@ -5,6 +5,7 @@ services:
     container_name: telegraf
     ports:
       - "8080:8080"
+      - "8186:8186"
     restart: unless-stopped
     volumes:
       - "${PWD}:/etc/telegraf"
